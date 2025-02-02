@@ -1,0 +1,71 @@
+table{
+	background-color:#EEF7FD;	
+}
+/*head style*/
+.tr1 td{
+	background-color: black;
+	color: white;
+	border: 1px solid white;
+	font-size:18px;
+}
+/*main head TFour style*/
+.heading td h1{
+	padding-top:10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	height:20px;
+}
+/*main head paragraph*/
+.heading td p{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+/*first img*/	
+.img1 td img {
+	width:100%;
+	height:500px;	   
+}
+/*second img*/
+.img2 td img {
+	width:100%;
+	height:300px;
+}
+/*training heading*/
+h2{
+	padding-left: 10px;
+	padding-right: 10px;
+	height: 15px;
+}
+/*services heading*/
+#H2 {
+	padding-top: 10px;
+	}
+/*head anchor tag*/	
+a {
+    color:white;
+	text-decoration: none;
+  }
+  /*footer*/
+.footer td {
+	background-color: black;
+	color: white;
+	padding:20px 20px;
+}
+.footer td ul a {
+	color:white;
+    text-decoration: none;
+}
+.footer td ul li {
+	text-align:center;
+	 padding-bottom: 10px;
+}
+.footer td p {
+	text-align:center;
+	padding-left:80px;
+}
+.footerlog td p{
+	background-color: black;
+	text-align:center;
+	color:white;
+	padding-bottom:20px;
+} 	

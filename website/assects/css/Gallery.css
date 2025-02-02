@@ -1,0 +1,99 @@
+table{
+	background-color:#EEF7FD;	
+}
+/*head part styling*/
+.head td{ 
+	background-color: black;
+	color: white;
+	border: 1px solid white;
+	font-size:18px;
+}
+.head td a {
+    color:white;
+    text-decoration: none;
+}
+/*main heading styling styling*/
+.heading td h1{
+	text-align:center;
+	padding-top:30px;
+	font-size:50px;
+}
+.heading td h1 hr{
+	width:35%;
+}
+/*second head and paragraph styling*/
+.headpara td p {
+	font-Size:50px;
+	text-align:center;
+}
+.para td p {
+	text-align:center;
+	padding-top:5px;
+}
+/*first column images styling*/
+.img td img {
+	width:70%;
+	height:150px;
+	padding-left:20px;
+	padding-right:20px;
+	padding-top:30px;
+}
+.img td p {
+	padding-left:20px;
+	padding-bottom:10px;
+}
+/*second column images styling*/
+.img1 td img{
+	width:80%;
+	height:300px;
+	padding-top:30px;
+	padding-left:10px;
+}
+.img1 td p {
+	padding-left:10px;
+	padding-bottom:10px;
+}
+/*project images heading styling*/
+.littehead td h4{
+	text-align:center;
+	padding-top:10px;
+	font-Size:30px;
+}
+.littehead td span {
+	color:#01F9C6;
+}
+/*project images styling*/
+.img2 td img {
+	width:80%;
+	height:300px;
+	padding-top:30px;
+	padding-left:10px;
+}
+.img2 td p {
+	padding-bottom:10px;
+	text-align:center;
+}
+/*footer styling*/
+.footer td {
+	background-color: black;
+	color: white;
+	padding:20px 20px;
+}
+.footer td ul a {
+	color:white;
+    text-decoration: none;
+}
+.footer td ul li {
+	text-align:center;
+	 padding-bottom: 10px;
+}
+.footer td p {
+	text-align:center;
+	padding-left:80px;
+}
+.footerlog td p{
+	background-color: black;
+	text-align:center;
+	color:white;
+	padding-bottom:20px;		
+}	

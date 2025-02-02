@@ -1,0 +1,105 @@
+table{
+	background-color:#EEF7FD;	
+}
+/*table head  styling*/
+.head td{ 
+	background-color: black;
+	color: white;
+	border: 1px solid white;
+	font-size:18px;
+}
+.head td a {
+    color:white;
+	text-decoration: none;
+}
+/*main heading styling*/
+.heading td h1{
+	text-align:center;
+	padding-top:30px;
+	font-size:50px;
+}
+.heading td h1 hr{
+	width:15%;
+}
+/*form styling*/
+.form td {
+	padding-top:30px;
+	text-align:center;
+	
+}
+.form td h4 {
+	font-size:20px;
+}
+/*form label styling*/
+.form td label {
+	font-size:18px;
+}
+/*form input box styling*/
+.form td input {
+	height:25px;
+	width:200px;
+}
+/*button styling*/
+#button {
+	background-color:black;
+	color:white;
+	width: 80px;
+   height: 30px;
+   border-radius: 10px;
+}
+/*address styling*/
+.location td h2{
+	padding-left:20px;
+	height:18px;
+}
+.location td i{
+	padding-right:10px;
+}
+.location td p{
+	padding-left:60px;
+	padding-right:20px;
+	padding-bottom:20px;
+}
+.location td img{
+	height:300px;
+	width:50%;
+	padding-top:20px;
+}
+/*contact styling*/
+.contact td h2 {
+	padding-top:10px;
+	padding-left:20px;
+	height:15px;
+}
+.contact td i{
+	padding-right:10px;
+}
+.contact td p{
+	padding-left:60px;
+	padding-bottom:30px;
+}
+/*foooter sytling*/
+.footer td {
+	background-color: black;
+	color: white;
+	padding:20px 20px;
+}
+.footer td ul a {
+	color:white;
+    text-decoration: none;
+}
+.footer td ul li {
+	text-align:center;
+	 padding-bottom: 10px;
+}
+.footer td p {
+	text-align:center;
+	padding-left:80px;
+}
+.footerlog td p{
+	background-color: black;
+	text-align:center;
+	color:white;
+	padding-bottom:20px;		
+}		
+

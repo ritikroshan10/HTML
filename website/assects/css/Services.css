@@ -1,0 +1,78 @@
+table{
+	background-color:#EEF7FD;	
+}
+/*head part styling*/
+.head td{ 
+	background-color: black;
+	color: white;
+	border: 1px solid white;
+	font-size:18px;
+}
+.head td a {
+    color:white;
+	text-decoration: none;
+}
+/*main heading styling*/
+.mainhead td h1 {
+	text-align:center;
+	font-size:60px;
+}
+.mainhead td img {
+	width:100%;
+	height:400px;
+}
+.mainhead td span {
+	color:#01F9C6;
+	text-decoration:underline;
+}
+/*services heading styling*/
+.heading td h1{
+	text-align:center;
+	padding-top:30px;
+	font-size:40px;
+}
+/*all services heading style*/
+.serhead td h1{
+	padding-top:10px;
+	padding-left:10px;
+}
+/*all services intro and img part styling*/
+.serintro td p{
+	padding-left:30px;
+	padding-right:30px;
+	padding-bottom:10px;
+}
+.serintro td span{
+	font-size:25px;
+	color:#01F9C6;
+}
+.serintro td img{
+	padding-left:40px;
+	padding-bottom:20px;
+	height:300px;
+	width:70%;
+}
+/*footer styling*/
+.footer td {
+	background-color: black;
+	color: white;
+	padding:20px 20px;
+}
+.footer td ul a {
+	color:white;
+    text-decoration: none;
+}
+.footer td ul li {
+	text-align:center;
+	 padding-bottom: 10px;
+}
+.footer td p {
+	text-align:center;
+	padding-left:80px;
+}
+.footerlog td p{
+	background-color: black;
+	text-align:center;
+	color:white;
+	padding-bottom:20px;		
+}
